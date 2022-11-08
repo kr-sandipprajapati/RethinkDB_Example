@@ -1,0 +1,14 @@
+{
+  "name": "rethinkdb_example",
+  "version": "1.0.0",
+  "description": "some example of rethink db",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rethinkdb": "^2.4.2"
+  }
+}
